@@ -1,0 +1,50 @@
+=== ppt/slides/slide1.xml ===
+MANUAL DE MARCA | IDENTIDAD VISUAL  ·  VERSIÓN 2026 | EARTH PRINTING | barrobot3d.com
+
+=== ppt/slides/slide2.xml ===
+INTRODUCCIÓN | Sobre este manual | Este manual reúne los elementos que componen la identidad visual de Barrobot3D y establece las pautas para su uso correcto. | Aplicado con criterio, garantiza una comunicación coherente y reconocible en todos los soportes —del entorno digital al impreso— y protege el activo de marca más valioso del proyecto: su nombre y su imagen. | CONTENIDO | 01 | La marca | Esencia, nombre, misión y valores | 02 | Logotipo | Componentes, versiones y usos | 03 | Color | Paleta institucional | 04 | Tipografía | Familias y jerarquías | 05 | Aplicaciones | Redes sociales | BARROBOT3D · MANUAL DE MARCA | 02
+
+=== ppt/slides/slide3.xml ===
+01 · LA MARCA | ¿Qué es Barrobot3D? | Barrobot3D es un proyecto argentino de desarrollo tecnológico que diseñó y construyó una impresora 3D de gran formato capaz de levantar construcciones utilizando la tierra del propio terreno. Combina fabricación digital, biomateriales y arquitectura paramétrica para automatizar la forma de construir más antigua que existe. | Con base en San Javier, Valle de Traslasierra, Córdoba. | 1 | Fabricación digital | Desarrollo de la máquina, sus sistemas de control y automatización. | 2 | Biomateriales | Investigación y formulación de mezclas a partir de recursos locales. | 3 | Arquitectura digital | Diseño paramétrico y bioclimático de cada proyecto. | BARROBOT3D · MANUAL DE MARCA | 03
+
+=== ppt/slides/slide4.xml ===
+01 · LA MARCA — EL NOMBRE | BARRO |   +   | ROBOT | El material más antiguo de la construcción humana y la tecnología más reciente de fabricación, condensados en una sola palabra. | “Es, básicamente, un robot de barro que imprime barro.” | El nombre no propone reemplazar lo natural por lo tecnológico, sino ponerlos a trabajar juntos. Es corto, memorable y pronunciable en español e inglés. | EL TAGLINE | EARTH PRINTING | Impresión con tierra. | EARTH | El material: tierra cruda, local, de kilómetro cero, reciclable indefinidamente. | PRINTING | El método: fabricación aditiva, capa por capa, con precisión digital. | “La tecnología no reemplaza a la naturaleza. La potencia.” | BARROBOT3D · MANUAL DE MARCA | 04
+
+=== ppt/slides/slide5.xml ===
+01 · LA MARCA | Misión y visión | MISIÓN | Transformar la manera en que construimos, integrando impresión 3D y materiales locales para democratizar el acceso a la vivienda sostenible, saludable y de bajo impacto ambiental. | Democratizar el acceso a una construcción sostenible mediante la automatización de la construcción con tierra. | VISIÓN | Ser impulsores de una nueva cultura constructiva que combine materiales locales, saberes tradicionales y tecnologías digitales para crear una arquitectura regenerativa, accesible y en armonía con el entorno. | Una nueva cultura constructiva donde tradición y tecnología trabajen juntas. | BARROBOT3D · MANUAL DE MARCA | 05
+
+=== ppt/slides/slide6.xml ===
+01 · LA MARCA — VALORES | Cinco pilares | 01 | Sostenibilidad y regeneración | Reducir el impacto y dejar el entorno mejor de lo que estaba. | 02 | Arraigo local | Materiales y recursos de cada territorio. Cada suelo es distinto. | 03 | Tradición e innovación | Saberes ancestrales y tecnologías contemporáneas, juntos. | 04 | Accesibilidad | Que construir bien deje de ser un privilegio. | 05 | Colaboración | Comunidades, profesionales e instituciones en conjunto. | Sostenibilidad · Arraigo local · Tradición e innovación · Accesibilidad · Colaboración | BARROBOT3D · MANUAL DE MARCA | 06
+
+=== ppt/slides/slide7.xml ===
+01 · LA MARCA — TONO DE COMUNICACIÓN | Cómo hablamos | Un punto medio deliberado: ni artesanal ni corporativo frío. El barro como material técnico de alto desempeño, contado con honestidad. | SÍ | —  | Preciso y concreto | —  | Técnico pero comprensible | —  | Honesto sobre la etapa del proyecto | —  | Sereno y con autoridad | —  | Cálido, humano, con personas detrás | NO | —  | Grandilocuente | —  | Jergoso o hermético | —  | Promesas infladas | —  | Estridente o publicitario | —  | Impersonal o anónimo | PALABRAS QUE USAMOS | tierra · barro · construir · desarrollar · investigar · biomateriales · fabricación digital · local · regenerativo · accesible · saludable · saberes ancestrales | PALABRAS QUE EVITAMOS | revolucionario · disruptivo · único en el mundo · el mejor · solución definitiva · transformá tu vida | BARROBOT3D · MANUAL DE MARCA | 07
+
+=== ppt/slides/slide8.xml ===
+02 · LOGOTIPO | Componentes | Isotipo | El módulo con forma de cubo. Sintetiza la estructura de una construcción impresa capa por capa. | Logotipo | La marca denominativa BARROBOT3D, en tipografía geométrica de trazo firme. | Bajada | EARTH PRINTING describe la técnica —impresión con tierra— sin restringir su aplicación. | BARROBOT3D · MANUAL DE MARCA | 08
+
+=== ppt/slides/slide9.xml ===
+02 · LOGOTIPO | Versiones | Elegir la versión según el fondo, garantizando siempre el máximo contraste y legibilidad. | Positiva · full color | Uso preferente sobre fondos claros. | Negativa · blanco | Sobre fondos oscuros o fotografías. | Monocroma · verde bosque | Una sola tinta sobre fondo claro. | Monocroma · tierra | Grabado, serigrafía o aplicaciones a una tinta. | BARROBOT3D · MANUAL DE MARCA | 09
+
+=== ppt/slides/slide10.xml ===
+02 · LOGOTIPO | Área de protección y tamaño mínimo | ÁREA DE PROTECCIÓN | TAMAÑO MÍNIMO | La reducción máxima que preserva el reconocimiento de la marca. | 120 px
+ | ancho mínimo · digital | 25 mm
+ | ancho mínimo · impreso | El resguardo equivale a medio módulo del isotipo (½X) en todos los lados. Ningún texto, imagen u otro elemento debe invadir ese espacio. | BARROBOT3D · MANUAL DE MARCA | 10
+
+=== ppt/slides/slide11.xml ===
+02 · LOGOTIPO | Usos incorrectos | Evitar estas alteraciones: comprometen la coherencia y restan potencia y confianza a la marca. | ✕   | No deformar ni cambiar la proporción | ✕   | No alterar los colores institucionales | ✕   | No rotar ni inclinar el logotipo | ✕   | No aplicar sombras, brillos ni efectos | ✕   | No usar sobre fondos de bajo contraste | ✕   | No modificar ni recomponer sus elementos | BARROBOT3D · MANUAL DE MARCA | 11
+
+=== ppt/slides/slide12.xml ===
+03 · COLOR | Paleta institucional | Una paleta de tierra derivada del propio logotipo, coherente con el material y el espíritu de Earth Printing. | PRINCIPAL | Verde bosque | #0C4326 | RGB | 12 · 67 · 38 | CMYK | 82 · 0 · 43 · 74 | SECUNDARIO | Verde salvia | #8DA784 | RGB | 141 · 167 · 132 | CMYK | 16 · 0 · 21 · 35 | ACENTO | Marrón tierra | #6A2E16 | RGB | 106 · 46 · 22 | CMYK | 0 · 57 · 79 · 58 | COMPLEMENTARIO | Malva | #9D7A73 | RGB | 157 · 122 · 115 | CMYK | 0 · 22 · 27 · 38 | NEUTROS | Crema   | #F4F0E8 | Papel   | #FBF9F4 | Tinta   | #231F20 | BARROBOT3D · MANUAL DE MARCA | 12
+
+=== ppt/slides/slide13.xml ===
+04 · TIPOGRAFÍA | Familias tipográficas | Un sistema geométrico y neo-grotesco, de líneas limpias y buen desempeño en pantalla e impresión. Fuentes libres, descargables desde Google Fonts. | Aa | Archivo | Títulos y display | ABCDEFGHIJKLMNÑOPQRSTUVWXYZ | abcdefghijklmnñopqrstuvwxyz | 0123456789  ·  ¿?¡!&amp;% | ExtraBold · Bold | Aa | Space Grotesk | Subtítulos y destacados | ABCDEFGHIJKLMNÑOPQRSTUVWXYZ | abcdefghijklmnñopqrstuvwxyz | 0123456789  ·  ¿?¡!&amp;% | Bold · Medium | Aa | Work Sans | Cuerpo de texto | ABCDEFGHIJKLMNÑOPQRSTUVWXYZ | abcdefghijklmnñopqrstuvwxyz | 0123456789  ·  ¿?¡!&amp;% | Regular · Medium · SemiBold | BARROBOT3D · MANUAL DE MARCA | 13
+
+=== ppt/slides/slide14.xml ===
+05 · RECURSOS GRÁFICOS | La textura de estratos | El relieve horizontal y sedimentario de las capas de barro impreso es el recurso visual más propio y exclusivo de la marca. Reproduce, en la comunicación, lo que la máquina hace en la obra. | Usos recomendados | —   | Fondos de portada y separadores de sección. | —   | Bloques de color plano con textura sutil. | —   | Reservar el pleno de textura para piezas protagonistas. | Otros motivos: la geometría del domo y la estructura de pórtico de la impresora sobre el paisaje serrano. | verde bosque | BARROBOT3D · MANUAL DE MARCA | 14
+
+=== ppt/slides/slide15.xml ===
+05 · APLICACIONES | Redes sociales | Feed · Instagram | Perfil unificado | @barrobot3d | Unificar el usuario en todas las plataformas para facilitar el reconocimiento y la búsqueda. | Recomendaciones | —   | Jerarquizar la información para su lectura. | —   | No saturar: desde lo simple se genera impacto. | —   | Usar la textura de estratos con moderación. | Plataformas | Instagram | @barrobot3d | YouTube | BARROBOT3D | Facebook | BarroBot | Web | barrobot3d.com | BARROBOT3D · MANUAL DE MARCA | 15
+
+=== ppt/slides/slide16.xml ===
+“Imprimimos tierra, construimos futuro.” | WEB | barrobot3d.com | INSTAGRAM | @barrobot3d | EMAIL | barrobot3d@gmail.com | TEL · WHATSAPP | +54 9 11 6569-1974 | UBICACIÓN | San Javier · Traslasierra · Córdoba · Argentina | BARROBOT3D · MANUAL DE MARCA · VERSIÓN 2026
+
